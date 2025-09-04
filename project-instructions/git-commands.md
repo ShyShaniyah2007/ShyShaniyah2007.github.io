@@ -11,7 +11,7 @@ When working on coding projects, it's important to save and track your changes u
 Run the following command to tell Git which files to track:
 
 ```bash
-git add .
+Add content.
 ```
 
 <table style="width: 80%; margin: auto; border-collapse: collapse; margin-top: 15px; background-color: #2c2c2c; border: 1px solid #444; border-radius: 8px; overflow: hidden;">
